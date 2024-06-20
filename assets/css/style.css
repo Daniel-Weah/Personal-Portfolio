@@ -19710,4 +19710,10 @@ body.white-version .rn-btn-ulderline {
   border-radius: 50%;
   border: 2px solid #aaa;
 }
+#menuBtn{
+
+  color: #ff014f; 
+  cursor: pointer;
+  margin-left: 1rem;
+}
 /*# sourceMappingURL=../maps/style.css.map */
